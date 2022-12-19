@@ -1,5 +1,5 @@
 # My Patika.dev link
 
-[https://app.patika.dev/nidus](Patika)
+[Patika](https://app.patika.dev/nidus)
 
 ## Js clock and timer project
